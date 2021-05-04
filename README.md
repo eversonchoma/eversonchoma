@@ -1,4 +1,15 @@
-C Sharp developer with fullstack development experience. 
-Certified professional in T-sql and PL / SQL languages. 
-Entrepreneur, self-taught and passionate about learning.
-Currently studying React Web development.
+<h1> Hi, there! My name is Everson </h1>
+</h1>
+<h2>and welcome to my github!</h2>
+
+### About me:
+I'm a software developer with fullstack experience. Entrepreneur, self-taught and passionate about learning.
+
+### Languages:
+* C Sharp
+* JavaScript
+* NodeJS
+* ReactJS
+* React Native
+
+<h3> email - everson.choma@gmail.com </h3>
