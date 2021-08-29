@@ -5,11 +5,4 @@
 ### About me:
 I'm a software developer with fullstack experience. Entrepreneur, self-taught and passionate about learning.
 
-### Languages and frameworks:
-* C Sharp
-* JavaScript
-* NodeJS
-* ReactJS
-* React Native
-
 <h3> email - everson.choma@gmail.com </h3>
