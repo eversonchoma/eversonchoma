@@ -5,7 +5,7 @@
 ### About me:
 I'm a software developer with fullstack experience. Entrepreneur, self-taught and passionate about learning.
 
-### Languages:
+### Languages and frameworks:
 * C Sharp
 * JavaScript
 * NodeJS
